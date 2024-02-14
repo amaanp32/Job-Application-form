@@ -80,5 +80,6 @@ button:hover{
     }
     .main{
         max-width: 90vw;
+        margin-bottom:0;
     }
 }
